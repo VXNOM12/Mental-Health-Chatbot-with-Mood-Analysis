@@ -21,8 +21,8 @@ A Python-based chatbot that provides mental health support through emotional rec
 
 ```bash
 # Clone the repository
-git clone https://github.com/VXNOM12/mental-health-chatbot.git
-cd mental-health-chatbot
+git clone https://github.com/VXNOM12/Mental-Health-Chatbot-with-Mood-Analysis.git
+cd Mental-Health-Chatbot-with-Mood-Analysis
 
 # Install dependencies
 pip install -r requirements.txt
